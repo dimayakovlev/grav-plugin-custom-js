@@ -8,5 +8,5 @@ en:
     JS_FILES_PATH_HELP: "Relative to web root"
     JS_FILES_PATH_PRIORITY: "Priority (0=Default)"
     JS_FILES_PATH_PRIORITY_HELP: "Lower means later inclusion. Negative value to add this file after the other files (that come with the theme)"
-    JS_FILES_PATH_GROUP: "Group (header=Default)"
+    JS_FILES_PATH_GROUP: "Group (head=Default)"
     JS_FILES_PATH_GROUP_HELP: "Specify a unique group name for JavaScript asset (default is head)"
